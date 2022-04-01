@@ -36,7 +36,7 @@ ________________________________________________________________________________
 - Resistor SMD 1206 330R : https://s.click.aliexpress.com/e/_A7OXrR
 
 ## Firmware Download 
-one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 MCU on this PCB.
+one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
 
 
 ______________________________________________________________________________________________________________________________
