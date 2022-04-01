@@ -1,5 +1,5 @@
 # AeonLabs Nextion 7" LCD Touch PCB Addon 
-This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board.
+This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally can be installed with a RFID RC522 module for contactless read / write capabilities.
  
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_Nextion_7__LCD_Touch_PCB_Addon_.svg)
@@ -33,8 +33,12 @@ ________________________________________________________________________________
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
 - Capacitor 100nF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
 - Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
-- LED SMD 1206 : https://s.click.aliexpress.com/e/_A9THIl
-- Resistor SMD 1206 330R : https://s.click.aliexpress.com/e/_A7OXrR
+- Resistor SMD 1206 330R x3 : https://s.click.aliexpress.com/e/_A7OXrR
+- ESP32 WROOM32 x1 : https://s.click.aliexpress.com/e/_AF7N6l
+- Buzzer x1: https://s.click.aliexpress.com/e/_AF7N6l
+- LED RGB x1: https://s.click.aliexpress.com/e/_AccXHT
+- RFID RC522 x1 (optional) : https://s.click.aliexpress.com/e/_Am0LAH
+- 
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
