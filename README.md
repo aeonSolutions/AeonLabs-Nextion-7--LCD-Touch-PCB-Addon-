@@ -43,7 +43,9 @@ one can use the [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSol
 ______________________________________________________________________________________________________________________________
 
 ### License
-2022 Creative Commons license
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 =====================================================================================
 ### Share this PCB board files
