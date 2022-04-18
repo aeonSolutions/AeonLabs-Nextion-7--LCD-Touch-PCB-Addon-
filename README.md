@@ -22,7 +22,11 @@ If you like this kind of projects and want to stay updated with the latest resea
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
 
 ## Fully assembled PCB
-Alternatively, and if you do not want to build a PCB by yourself and like to buy one, mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+Alternatively, and if you do not want to build a PCB by yourself and like to buy one:
+
+[Tindie.com](https://www.tindie.com/products/aeonlabs/addon-for-nextion-7-lcd-touch-displays/)
+
+The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
 ## Nextion LCDs
