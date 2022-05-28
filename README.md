@@ -37,6 +37,9 @@ If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [h
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/assemvled.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-Solder-Reflow-Plate-PCB/blob/main/Designs/assemvled2.jpg)
+
 ![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/pcb_back.png)
 
