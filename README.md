@@ -8,6 +8,10 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/total?style=for-the-badge)
 
 ## Revisions
+- revision 3.1
+  - added barcode & QR code 2.4G wireless module for handheld barcode & QR code scanners
+  - minor bug corrections to the PCB
+  
 - revision 2.4
   - added wired power source conenction for 5V to 12V 1A power input for industrial applications. 
 
