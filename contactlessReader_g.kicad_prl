@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 48,
-    "active_layer_preset": "",
+    "active_layer": 0,
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -37,6 +37,7 @@
       9,
       10,
       11,
+      12,
       13,
       14,
       15,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc3eff_7ffffffe",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "contactlessReader_licensed.kicad_prl",
+    "filename": "contactlessReader_g.kicad_prl",
     "version": 3
   },
   "project": {
