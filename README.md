@@ -23,7 +23,7 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 Download this repository if you need the KiCad Files. Or, download the Gerber files in the release section of this repository
 
 ## Liked it ? Get a Free PCB for yourself
-Liked this custom add-on for Nextion LCDs. Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
+Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
 ## Join the WhatsApp Group
 If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
