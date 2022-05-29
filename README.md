@@ -20,13 +20,9 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 [![First Firmware download of AeonLabs's USB to UART TTL Burner](https://res.cloudinary.com/marcomontalbano/image/upload/v1653811888/video_to_markdown/images/youtube--EkAStzBm8CE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EkAStzBm8CE "First Firmware download of AeonLabs's USB to UART TTL Burner")
 
 ## Download options
-Download this repository if you need the KiCad Files
+Download this repository if you need the KiCad Files. Or, download the Gerber files in the release section of this repository
 
-Or,
-
-Download the Gerber files in the release section of this repository
-
-## Liked it ?
+## Liked it ? Get a Free PCB for yourself
 Liked this custom add-on for Nextion LCDs. Send my your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
 ## Join the WhatsApp Group
