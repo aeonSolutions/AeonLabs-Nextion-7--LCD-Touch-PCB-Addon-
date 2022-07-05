@@ -10,7 +10,7 @@ This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/total?style=for-the-badge)
 
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/working_yellow.png)  Powers up. Not tested.
+![](https://github.com/aeonSolutions/AeonLabs-Nextion-7--LCD-Touch-PCB-Addon-/blob/main/designs/working_yellow.png)  Powers up. Waiting to be tested.
 
 If you already tested this PCB send me a message. Thank you
 
