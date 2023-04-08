@@ -1,3 +1,8 @@
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart LCD Touch Displays](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20LCD%20Touch%20Displays)  >>  AeonLabs Nextion 7" LCD Touch PCB Addon
+
+<br>
+
+
 # AeonLabs Nextion 7" LCD Touch PCB Addon 
 This repo contains the KiCad files for the  WIFI &amp; BLE addon for Nextion 7" LCD Touch. This PCB adds WiFi and BLE capabilities to stock Nextion 7" LCDs (http://www.nextion.tech). Features WIFI, Bluetooth a RGB LED and a Buzzer and is designed to be mounted on top of existing Nextion PCB board. Optionally:
 - can be installed with a RFID RC522 module for contactless read / write capabilities.
